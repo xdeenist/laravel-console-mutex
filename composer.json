@@ -1,5 +1,5 @@
 {
-    "name": "illuminated/console-mutex",
+    "name": "xdeenist/laravel-console-mutex",
     "description": "Mutex for Laravel Console Commands.",
     "keywords": ["laravel", "console", "command", "mutex", "mutex-lock", "semaphore", "locker", "no-overlapping"],
     "license": "MIT",
